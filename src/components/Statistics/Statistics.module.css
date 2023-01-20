@@ -1,6 +1,6 @@
 .feedbackForm__stats {
   display: flex;
-  color: #3737cf;
+  color: var(--accent-color);
 }
 
 .statistics__report {
