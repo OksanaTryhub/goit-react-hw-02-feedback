@@ -1,0 +1,9 @@
+.feedbackForm__stats {
+  display: flex;
+  color: blue;
+}
+
+.statistics__report {
+  font-style: 18px;
+  line-height: 1.5;
+}

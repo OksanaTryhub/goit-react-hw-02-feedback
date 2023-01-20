@@ -1,0 +1,10 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.feedbackForm__title {
+  align-self: center;
+  color: blue;
+}
