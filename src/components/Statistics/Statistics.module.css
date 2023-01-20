@@ -1,9 +1,10 @@
 .feedbackForm__stats {
   display: flex;
-  color: blue;
+  color: #3737cf;
 }
 
 .statistics__report {
   font-style: 18px;
+  font-weight: bold;
   line-height: 1.5;
 }

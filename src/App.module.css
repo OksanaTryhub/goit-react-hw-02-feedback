@@ -35,11 +35,13 @@ li {
 .feedbackForm {
   margin-left: auto;
   margin-right: auto;
+  margin-top: 20px;
   width: 350px;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 15px;
-  background-color: rgb(173, 173, 243);
+  background-color: rgb(227, 205, 255);
   border-radius: 8px;
+  box-shadow: 0px 0px 8px 0px #3737cf;
 }
